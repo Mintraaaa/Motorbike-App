@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- เส้นทาง external storage ทั้งหมด -->
+    <external-path name="external_files" path="." />
+
+    <!-- เส้นทางที่เก็บรูปภาพ -->
+    <external-path name="images" path="Pictures/" />
+
+    <!-- เส้นทางที่เก็บไฟล์เอกสาร -->
+    <external-path name="documents" path="Documents/" />
+
+</paths>
